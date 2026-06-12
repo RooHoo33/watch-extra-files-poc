@@ -6,7 +6,7 @@ application will not be rebuilt. With
 the [changes to the Micronaut plugin](https://github.com/RooHoo33/watch-extra-files-poc/blob/main/build.gradle.kts#L94),
 you can specify
 the `extras` source set `srcDirs` as an additional location for micronaut to watch causing
-the application to be rebuild when you modifiy `extras/Example.kt`.
+the application to be rebuilt when you modifiy `extras/Example.kt`.
 
 ## Micronaut 5.0.2 Documentation
 
